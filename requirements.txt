@@ -3,5 +3,4 @@ pandas
 numpy
 opencv-python
 flask
-tensorflow
 win32com

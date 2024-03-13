@@ -2,8 +2,6 @@ scikit-learn
 pandas
 numpy
 opencv-python
-pickle
-os
-time
-datetime
 flask
+tensorflow
+win32com
